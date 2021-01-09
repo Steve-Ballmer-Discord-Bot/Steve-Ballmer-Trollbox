@@ -1,0 +1,8 @@
++----------+---------------------------------------------------+
+| Command  |                    Description                    |
++----------+---------------------------------------------------+
+| !help    | Get a list of commands                            |
+| !botinfo | Shows the bot info                                |
+| !ping    | Sends information about the bot response          |
+| !news    | Sends information about the latest windows93 news |
++----------+---------------------------------------------------+

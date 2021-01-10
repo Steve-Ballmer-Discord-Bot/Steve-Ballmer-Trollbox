@@ -1,7 +1,7 @@
 const tb = require("tb93");
 const fs = require("fs");
 
-let bot = new tb.Trollbox(new tb.User("Steve Ballmer"),true);
+let bot = new tb.Trollbox(new tb.User("Steve Ballmer", "LightBlue;bot"),true);
 let prefix = "!";
 
 bot.on_message = msg => {
